@@ -23,7 +23,7 @@ Follow these steps:
 
 The program supports four options for counting operations:
 
-- -c: Counts the number of bytes in the file.
+- -c : Counts the number of bytes in the file.
 - -l: Counts the number of lines in the file.
 - -w: Counts the number of words in the file.
 
