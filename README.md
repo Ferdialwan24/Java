@@ -20,6 +20,7 @@ Follow these steps:
 
 
 ## Documentation
+![ccwc result](https://github.com/Ferdialwan24/Word-Count/assets/165251917/52fe4899-72de-4b7c-835c-94561916c889)
 
 The program supports four options for counting operations:
 
